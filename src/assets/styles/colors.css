@@ -1,0 +1,9 @@
+:root {
+  --black: #0d0d0d;
+  --black-full: #000;
+  --orange: #f3ce00;
+  --white-full: #fff;
+  --red-gradient: linear-gradient(92.64deg, #ff5621 29.24%, #f21313 83.67%);
+  --gray: #efefef;
+  --gray-main-bg: #e5e5e5;
+}
